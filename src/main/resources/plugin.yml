@@ -1,0 +1,8 @@
+name: Spleef
+author: stressedme
+version: 1.0
+main: net.gqrden.spleef.Main
+
+depend:
+  - GameAPI
+  - GartexAPI
